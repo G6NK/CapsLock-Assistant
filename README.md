@@ -1,5 +1,6 @@
 # CapsLock-Assistant
-# Author: G6nk
+# Author: G6NK
+# Publisher: G6NK Productions
 
  Simple Program that lets you know When your Caps lock is on.
 
